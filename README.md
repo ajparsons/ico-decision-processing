@@ -35,11 +35,11 @@ The core data is expected in `data/ICO clean.xlsx`.
 
 ### To set up the data
 
-`invoke downloadpdfs` - will download all pdfs mentioned in `data/ICO clean.xlsx`. 
-`invoke json` - will extract the text to create json files. 
-`invoke process` - will apply the analysis and tests to the json files and export documents. 
+- `invoke downloadpdfs` - will download all pdfs mentioned in `data/ICO clean.xlsx`. 
+- `invoke json` - will extract the text to create json files. 
+- `invoke process` - will apply the analysis and tests to the json files and export documents. 
 
 By default, will only run on those with no prior analysis or with current errors. `invoke process --force` will rerun on all. 
 
-`invoke errors`  - Export errors document (documents that failed described tests) - `data/errors.csv`
-`invoke results` - Create results document, merges listed results with `clean ico.xlsx`
+- `invoke errors`  - Export errors document (documents that failed described tests) - `data/errors.csv`
+- `invoke results` - Create results document, merges listed results with `clean ico.xlsx`
