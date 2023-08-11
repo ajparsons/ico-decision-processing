@@ -1,4 +1,4 @@
-import {{cookiecutter.underscored}} as package
+import ico_decision_processing as package
 
 
 def test_true_is_true():

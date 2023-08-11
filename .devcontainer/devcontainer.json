@@ -1,5 +1,5 @@
 {
-	"name": "{{cookiecutter.underscored}}",
+	"name": "ico_decision_processing",
 	"build": {
 		"dockerfile": "../Dockerfile"
 	},
