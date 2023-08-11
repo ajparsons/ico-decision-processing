@@ -1,0 +1,15 @@
+value,total,%
+start_date,7909,99.7
+ico_date,7369,92.89
+date_diff,7361,92.79
+review_date,3082,38.85
+review_reply_date,4953,62.44
+review_data_either,5891,74.26
+likely_invalid_ir_date,320,4.03
+substantive_response,354,4.46
+issue_response,340,4.29
+valid_refusal,324,4.08
+fresh_response,330,4.16
+steps_to_comply,2188,27.58
+does_not_require,4249,53.56
+section_54,2426,30.58
